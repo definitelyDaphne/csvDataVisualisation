@@ -12,6 +12,7 @@ more detail please refer to comment in the code
 ### Steps to run:
 1. Put both file in the same directory
 2. In terminal run `python3 randData.py` to auto-generate random .csv file set
+   
    (act1.csv / exp1.csv etc. for comparing actual data and expected data)
 3. Copy the command that's been printed out
 4. Run Python in terminal (or use any preferred IDE)
