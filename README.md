@@ -19,3 +19,4 @@ more detail please refer to comment in the code
 5. Import the main module by typing `import plot`
 6. Make sure numpy and matploitlib are properly installed
 7. Run command `plot.plotmicrocar([],[])` <-paste command from step 4
+![sample](https://github.com/definitelyDaphne/csvDataVisualisation/blob/master/exampleFig.png)
