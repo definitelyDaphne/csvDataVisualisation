@@ -1,10 +1,12 @@
 # csvDataVisualisation
 *university assignment, got full mark so might as well showcase this one :)*
 
-
 this is a simple python code using numpy to compute variance between two data set
+
 also capable to compare multiple sets at a time
+
 it then uses matplotlib to plot the computed data for visulisation purpose
+
 more detail please refer to comment in the code
 
 ### Steps to run:
